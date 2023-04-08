@@ -34,3 +34,9 @@ A **product** has a name, product type, description, and a set price.
 **Payments** serve as the customer's receipt of payment, and are assigned an auto-generated ID, an amount, and a date.
 
 A **customer** may leave **reviews** and comments for their orders. This helps the shop to improve and perfect their business craft.
+
+## Contributors
+- Barcenilla, Adrian Jay
+- Quijano, Sean Venz
+- Leonor, Jie Ann
+- Cuizon, Shane
